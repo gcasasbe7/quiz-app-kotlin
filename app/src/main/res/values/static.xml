@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer name="total_questions"> 10 </integer>
+    <integer name="seconds_per_question"> 20 </integer>
+
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kotlin-WLA</string>
+    <string name="proceed">Proceed</string>
+    <string name="play_again">Play again</string>
+    <string name="start_game">Start game</string>
+    <string name="title">Quiz Game</string>
+    <string name="total_questions">Total questions: </string>
+    <string name="correct_answers">CORRECT ANSWERS </string>
+    <string name="incorrect_answers">INCORRECT ANSWERS </string>
+    <string name="select_an_option">Select an option...</string>
+</resources>
